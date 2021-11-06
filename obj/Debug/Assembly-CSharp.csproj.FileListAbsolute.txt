@@ -1,0 +1,2 @@
+C:\Users\bs000\Isekai Never Die\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\bs000\Isekai Never Die\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

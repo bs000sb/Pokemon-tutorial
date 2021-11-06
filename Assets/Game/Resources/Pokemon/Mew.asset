@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 905a4c94ae90e2c4c80bd8d0c0e185a9, type: 3}
+  m_Name: Mew
+  m_EditorClassIdentifier: 
+  name: Mew
+  description: 
+  frontSprite: {fileID: -3587626125620754913, guid: 85977c692b682d24eb1d0cc6118a82eb, type: 3}
+  backSprite: {fileID: 8684365324235903836, guid: 33e1eb76ae2789d448834cbfc487ce9c, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 100
+  attack: 100
+  defense: 100
+  spAttack: 100
+  spDefense: 100
+  speed: 100
+  expYield: 64
+  growthRate: 1
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 8e6760ba1bdfaa4499c4f084a605bc20, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 5519bde7f9204604fbd9d4298fc91b89, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: 42871125a42bb7943998b9330a0f0648, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: c57f420c234c78846895ed6b9331de36, type: 2}
+    level: 7

@@ -1,0 +1,3960 @@
+fileFormatVersion: 2
+guid: 85977c692b682d24eb1d0cc6118a82eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6320942921880958766
+    second: Gen1PokemonFront_0
+  - first:
+      213: -3061232857405982701
+    second: Gen1PokemonFront_1
+  - first:
+      213: -7339541395454770307
+    second: Gen1PokemonFront_2
+  - first:
+      213: -882607270999587497
+    second: Gen1PokemonFront_3
+  - first:
+      213: 2776585280504064268
+    second: Gen1PokemonFront_4
+  - first:
+      213: -906033794649264115
+    second: Gen1PokemonFront_5
+  - first:
+      213: 5508491080209525368
+    second: Gen1PokemonFront_6
+  - first:
+      213: -1741976486297513168
+    second: Gen1PokemonFront_7
+  - first:
+      213: 1945973192303128764
+    second: Gen1PokemonFront_8
+  - first:
+      213: 4262027118669890838
+    second: Gen1PokemonFront_9
+  - first:
+      213: 1463555779316833696
+    second: Gen1PokemonFront_10
+  - first:
+      213: -5257499856491879278
+    second: Gen1PokemonFront_11
+  - first:
+      213: -1110976908834255715
+    second: Gen1PokemonFront_12
+  - first:
+      213: 174824603087940533
+    second: Gen1PokemonFront_13
+  - first:
+      213: -3181097380593642807
+    second: Gen1PokemonFront_14
+  - first:
+      213: -8157420680821612362
+    second: Gen1PokemonFront_15
+  - first:
+      213: 7995751832953073223
+    second: Gen1PokemonFront_16
+  - first:
+      213: 6783631198260986020
+    second: Gen1PokemonFront_17
+  - first:
+      213: -8672853866897724108
+    second: Gen1PokemonFront_18
+  - first:
+      213: 6597986876122304756
+    second: Gen1PokemonFront_19
+  - first:
+      213: 738559223104023006
+    second: Gen1PokemonFront_20
+  - first:
+      213: -6273341622990916656
+    second: Gen1PokemonFront_21
+  - first:
+      213: -4466626815904682918
+    second: Gen1PokemonFront_22
+  - first:
+      213: 7962908205943997263
+    second: Gen1PokemonFront_23
+  - first:
+      213: 1533361229420465850
+    second: Gen1PokemonFront_24
+  - first:
+      213: 9019908602291936747
+    second: Gen1PokemonFront_25
+  - first:
+      213: 4082767800581330447
+    second: Gen1PokemonFront_26
+  - first:
+      213: -1103568644806199715
+    second: Gen1PokemonFront_27
+  - first:
+      213: 5752983158356100151
+    second: Gen1PokemonFront_28
+  - first:
+      213: -7985731650547269891
+    second: Gen1PokemonFront_29
+  - first:
+      213: 8510110101812092593
+    second: Gen1PokemonFront_30
+  - first:
+      213: 950326830635335334
+    second: Gen1PokemonFront_31
+  - first:
+      213: -5173110601812658988
+    second: Gen1PokemonFront_32
+  - first:
+      213: 1608529676122484431
+    second: Gen1PokemonFront_33
+  - first:
+      213: -329762842925181391
+    second: Gen1PokemonFront_34
+  - first:
+      213: -6166240662078067037
+    second: Gen1PokemonFront_35
+  - first:
+      213: 1287007355670686520
+    second: Gen1PokemonFront_36
+  - first:
+      213: 7944823435944946141
+    second: Gen1PokemonFront_37
+  - first:
+      213: -20319586697440993
+    second: Gen1PokemonFront_38
+  - first:
+      213: 6698316091221841260
+    second: Gen1PokemonFront_39
+  - first:
+      213: 8790050564654704435
+    second: Gen1PokemonFront_40
+  - first:
+      213: 1914952746760283110
+    second: Gen1PokemonFront_41
+  - first:
+      213: 2468779760816987750
+    second: Gen1PokemonFront_42
+  - first:
+      213: 688341754400830538
+    second: Gen1PokemonFront_43
+  - first:
+      213: -6816966318327906343
+    second: Gen1PokemonFront_44
+  - first:
+      213: 5203953874155729541
+    second: Gen1PokemonFront_45
+  - first:
+      213: 8872207384469095736
+    second: Gen1PokemonFront_46
+  - first:
+      213: -1042912172022483844
+    second: Gen1PokemonFront_47
+  - first:
+      213: -625851622939498417
+    second: Gen1PokemonFront_48
+  - first:
+      213: -3343527222632611609
+    second: Gen1PokemonFront_49
+  - first:
+      213: -2083222546994324424
+    second: Gen1PokemonFront_50
+  - first:
+      213: 6751824006802474623
+    second: Gen1PokemonFront_51
+  - first:
+      213: 470055429357167473
+    second: Gen1PokemonFront_52
+  - first:
+      213: -2211449572076224258
+    second: Gen1PokemonFront_53
+  - first:
+      213: 2534431199755003184
+    second: Gen1PokemonFront_54
+  - first:
+      213: 1178248565010129911
+    second: Gen1PokemonFront_55
+  - first:
+      213: -3038004029159009483
+    second: Gen1PokemonFront_56
+  - first:
+      213: 423644763153621739
+    second: Gen1PokemonFront_57
+  - first:
+      213: 3222366212077329226
+    second: Gen1PokemonFront_58
+  - first:
+      213: 4463921911981897733
+    second: Gen1PokemonFront_59
+  - first:
+      213: 5910432142858697263
+    second: Gen1PokemonFront_60
+  - first:
+      213: 1212234798954640902
+    second: Gen1PokemonFront_61
+  - first:
+      213: -4032299836137956085
+    second: Gen1PokemonFront_62
+  - first:
+      213: -744590504663379664
+    second: Gen1PokemonFront_63
+  - first:
+      213: 4808390927729347932
+    second: Gen1PokemonFront_64
+  - first:
+      213: 4919837528851168119
+    second: Gen1PokemonFront_65
+  - first:
+      213: -6235747836816001966
+    second: Gen1PokemonFront_66
+  - first:
+      213: 3771985350383290925
+    second: Gen1PokemonFront_67
+  - first:
+      213: 5677431245571751312
+    second: Gen1PokemonFront_68
+  - first:
+      213: -8134858239476072670
+    second: Gen1PokemonFront_69
+  - first:
+      213: 4083105299157433576
+    second: Gen1PokemonFront_70
+  - first:
+      213: -8095291281289467343
+    second: Gen1PokemonFront_71
+  - first:
+      213: -1166989668854125700
+    second: Gen1PokemonFront_72
+  - first:
+      213: 7434025703820102523
+    second: Gen1PokemonFront_73
+  - first:
+      213: -3612334232843153921
+    second: Gen1PokemonFront_74
+  - first:
+      213: 1450500768279315188
+    second: Gen1PokemonFront_75
+  - first:
+      213: -332730024380022592
+    second: Gen1PokemonFront_76
+  - first:
+      213: -8214933948089416110
+    second: Gen1PokemonFront_77
+  - first:
+      213: 7461364101683477976
+    second: Gen1PokemonFront_78
+  - first:
+      213: -5098471597329148553
+    second: Gen1PokemonFront_79
+  - first:
+      213: 1714807344716218743
+    second: Gen1PokemonFront_80
+  - first:
+      213: -8206474179411337361
+    second: Gen1PokemonFront_81
+  - first:
+      213: -6133819318926576857
+    second: Gen1PokemonFront_82
+  - first:
+      213: 1643535443895033893
+    second: Gen1PokemonFront_83
+  - first:
+      213: 5570117327871901189
+    second: Gen1PokemonFront_84
+  - first:
+      213: -8381537970519332450
+    second: Gen1PokemonFront_85
+  - first:
+      213: 2371968752118537906
+    second: Gen1PokemonFront_86
+  - first:
+      213: -4519665889078865266
+    second: Gen1PokemonFront_87
+  - first:
+      213: 8858809348528490709
+    second: Gen1PokemonFront_88
+  - first:
+      213: -1702809006911893283
+    second: Gen1PokemonFront_89
+  - first:
+      213: -7859005766075419369
+    second: Gen1PokemonFront_90
+  - first:
+      213: 2218543844107540416
+    second: Gen1PokemonFront_91
+  - first:
+      213: -3157232662415913417
+    second: Gen1PokemonFront_92
+  - first:
+      213: -436129332308203460
+    second: Gen1PokemonFront_93
+  - first:
+      213: 6567685373864346656
+    second: Gen1PokemonFront_94
+  - first:
+      213: 6797256726913129375
+    second: Gen1PokemonFront_95
+  - first:
+      213: 8005881881383166143
+    second: Gen1PokemonFront_96
+  - first:
+      213: -7456218756923614936
+    second: Gen1PokemonFront_97
+  - first:
+      213: -8505791143625611863
+    second: Gen1PokemonFront_98
+  - first:
+      213: -5708917679228145385
+    second: Gen1PokemonFront_99
+  - first:
+      213: 4827371238130461529
+    second: Gen1PokemonFront_100
+  - first:
+      213: 8374384221478680842
+    second: Gen1PokemonFront_101
+  - first:
+      213: 6101409932855143744
+    second: Gen1PokemonFront_102
+  - first:
+      213: 5471334380322255031
+    second: Gen1PokemonFront_103
+  - first:
+      213: -9044059200408011714
+    second: Gen1PokemonFront_104
+  - first:
+      213: -8556239992965395089
+    second: Gen1PokemonFront_105
+  - first:
+      213: 6583401697368674276
+    second: Gen1PokemonFront_106
+  - first:
+      213: 2939568258840889257
+    second: Gen1PokemonFront_107
+  - first:
+      213: -8426470636574902244
+    second: Gen1PokemonFront_108
+  - first:
+      213: 8670008633029272700
+    second: Gen1PokemonFront_109
+  - first:
+      213: 1820239581948804616
+    second: Gen1PokemonFront_110
+  - first:
+      213: -4610113011464331485
+    second: Gen1PokemonFront_111
+  - first:
+      213: -4819619314786427513
+    second: Gen1PokemonFront_112
+  - first:
+      213: 2752853827201741733
+    second: Gen1PokemonFront_113
+  - first:
+      213: 283911592750412299
+    second: Gen1PokemonFront_114
+  - first:
+      213: 1492682813180648542
+    second: Gen1PokemonFront_115
+  - first:
+      213: -7282188465870222547
+    second: Gen1PokemonFront_116
+  - first:
+      213: 1955248783453128142
+    second: Gen1PokemonFront_117
+  - first:
+      213: -6745986014822674196
+    second: Gen1PokemonFront_118
+  - first:
+      213: 8064452540326145733
+    second: Gen1PokemonFront_119
+  - first:
+      213: 8475258324235853581
+    second: Gen1PokemonFront_120
+  - first:
+      213: -3890141052769798583
+    second: Gen1PokemonFront_121
+  - first:
+      213: -4997522729728558399
+    second: Gen1PokemonFront_122
+  - first:
+      213: 7763751289936513400
+    second: Gen1PokemonFront_123
+  - first:
+      213: 7298781103477965492
+    second: Gen1PokemonFront_124
+  - first:
+      213: -4221818618366357988
+    second: Gen1PokemonFront_125
+  - first:
+      213: -3103381128598031981
+    second: Gen1PokemonFront_126
+  - first:
+      213: -3591923728926676225
+    second: Gen1PokemonFront_127
+  - first:
+      213: 2079440945450102478
+    second: Gen1PokemonFront_128
+  - first:
+      213: 8995265595317681536
+    second: Gen1PokemonFront_129
+  - first:
+      213: 4126374182537802144
+    second: Gen1PokemonFront_130
+  - first:
+      213: -8395967720027097864
+    second: Gen1PokemonFront_131
+  - first:
+      213: -9193764331310776275
+    second: Gen1PokemonFront_132
+  - first:
+      213: -957076152212334895
+    second: Gen1PokemonFront_133
+  - first:
+      213: -4483142625089529020
+    second: Gen1PokemonFront_134
+  - first:
+      213: -375780872127596423
+    second: Gen1PokemonFront_135
+  - first:
+      213: -1827944049660914721
+    second: Gen1PokemonFront_136
+  - first:
+      213: -5050590066219825705
+    second: Gen1PokemonFront_137
+  - first:
+      213: -7393476845898711811
+    second: Gen1PokemonFront_138
+  - first:
+      213: 3038917235782788439
+    second: Gen1PokemonFront_139
+  - first:
+      213: 6297401589566881626
+    second: Gen1PokemonFront_140
+  - first:
+      213: -8059882408349512961
+    second: Gen1PokemonFront_141
+  - first:
+      213: 565604614900535783
+    second: Gen1PokemonFront_142
+  - first:
+      213: -2334894108621813065
+    second: Gen1PokemonFront_143
+  - first:
+      213: -876089412091504899
+    second: Gen1PokemonFront_144
+  - first:
+      213: 8381499849065491522
+    second: Gen1PokemonFront_145
+  - first:
+      213: -5221546520337756318
+    second: Gen1PokemonFront_146
+  - first:
+      213: -141651482273772700
+    second: Gen1PokemonFront_147
+  - first:
+      213: 172370653903178115
+    second: Gen1PokemonFront_148
+  - first:
+      213: -6582499821417381550
+    second: Gen1PokemonFront_149
+  - first:
+      213: -3587626125620754913
+    second: Gen1PokemonFront_150
+  - first:
+      213: 2541569255739831852
+    second: Gen1PokemonFront_151
+  - first:
+      213: 6827522762749189038
+    second: Gen1PokemonFront_152
+  - first:
+      213: 8983891126789189529
+    second: Gen1PokemonFront_153
+  - first:
+      213: 1090435901993921047
+    second: Gen1PokemonFront_154
+  - first:
+      213: -7420344686636126471
+    second: Gen1PokemonFront_155
+  - first:
+      213: -8014439429107399854
+    second: Gen1PokemonFront_156
+  - first:
+      213: 1624059434107387897
+    second: Gen1PokemonFront_157
+  - first:
+      213: 7222214095317284606
+    second: Gen1PokemonFront_158
+  - first:
+      213: -346926865977290191
+    second: Gen1PokemonFront_159
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gen1PokemonFront_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27fb30091088b750800000000000000
+      internalID: 6320942921880958766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ff8f6fe05485d0800000000000000
+      internalID: -3061232857405982701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73c4a5ccf5b42a90800000000000000
+      internalID: -7339541395454770307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75584effc5950c3f0800000000000000
+      internalID: -882607270999587497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09e5050a99688620800000000000000
+      internalID: 2776585280504064268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d007e6b601f1d63f0800000000000000
+      internalID: -906033794649264115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aeb44c377127c40800000000000000
+      internalID: 5508491080209525368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03357277d9143d7e0800000000000000
+      internalID: -1741976486297513168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb039a5ee4c710b10800000000000000
+      internalID: 1945973192303128764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615866f4513c52b30800000000000000
+      internalID: 4262027118669890838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad562f1a389f4410800000000000000
+      internalID: 1463555779316833696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 784
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29462276cbb9907b0800000000000000
+      internalID: -5257499856491879278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 784
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cc54b33640590f0800000000000000
+      internalID: -1110976908834255715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 784
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb2e0ddc0a1d6200800000000000000
+      internalID: 174824603087940533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 784
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c25ac959c87ad3d0800000000000000
+      internalID: -3181097380593642807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 784
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e3345c150bce80800000000000000
+      internalID: -8157420680821612362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 784
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ea853cded96fe60800000000000000
+      internalID: 7995751832953073223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 784
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a08a9332ac442e50800000000000000
+      internalID: 6783631198260986020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 784
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d20badb55d3a780800000000000000
+      internalID: -8672853866897724108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 784
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f095ff2b12c09b50800000000000000
+      internalID: 6597986876122304756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed924ba43b3ef3a00800000000000000
+      internalID: 738559223104023006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 728
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d334fe080d90f8a0800000000000000
+      internalID: -6273341622990916656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 728
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c64cd739a5302c0800000000000000
+      internalID: -4466626815904682918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 728
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43c552f2dee18e60800000000000000
+      internalID: 7962908205943997263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 728
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe86fff9e7974510800000000000000
+      internalID: 1533361229420465850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 728
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedd91295172d2d70800000000000000
+      internalID: 9019908602291936747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 728
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f069d06eea7e8a830800000000000000
+      internalID: 4082767800581330447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 728
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56311d1a265fa0f0800000000000000
+      internalID: -1103568644806199715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 728
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734ce90b3b3b6df40800000000000000
+      internalID: 5752983158356100151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 728
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe3981cf5bfc2190800000000000000
+      internalID: -7985731650547269891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be19f19c0cf91670800000000000000
+      internalID: 8510110101812092593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 672
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeba88a73d303d00800000000000000
+      internalID: 950326830635335334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 672
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d43623e05b6538b0800000000000000
+      internalID: -5173110601812658988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 672
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce64f3d735a25610800000000000000
+      internalID: 1608529676122484431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136525701727c6bf0800000000000000
+      internalID: -329762842925181391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 672
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6449b9cc1d6aa0800000000000000
+      internalID: -6166240662078067037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83be0120f5e5cd110800000000000000
+      internalID: 1287007355670686520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 672
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd962be42dea14e60800000000000000
+      internalID: 7944823435944946141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119aec817fc7bff0800000000000000
+      internalID: -20319586697440993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 672
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c659f8aeef235fc50800000000000000
+      internalID: 6698316091221841260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33727f7ba688cf970800000000000000
+      internalID: 8790050564654704435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 616
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e32e489067439a10800000000000000
+      internalID: 1914952746760283110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 616
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e9b20cc1ed24220800000000000000
+      internalID: 2468779760816987750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 616
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44712bbd2b7d8900800000000000000
+      internalID: 688341754400830538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 616
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df334650454561a0800000000000000
+      internalID: -6816966318327906343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 616
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582f1901a78283840800000000000000
+      internalID: 5203953874155729541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 616
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835c0e4fb99602b70800000000000000
+      internalID: 8872207384469095736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 616
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c743ba6b7e4d681f0800000000000000
+      internalID: -1042912172022483844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 616
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48e69cc3478057f0800000000000000
+      internalID: -625851622939498417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_49
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 616
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0822ea4b76991d0800000000000000
+      internalID: -3343527222632611609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c91528128e613e0800000000000000
+      internalID: -2083222546994324424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 560
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f768a67592c43bd50800000000000000
+      internalID: 6751824006802474623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 560
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173e39b2ce8f58600800000000000000
+      internalID: 470055429357167473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 560
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef005b9b45a5f41e0800000000000000
+      internalID: -2211449572076224258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 560
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03560198fbb1c2320800000000000000
+      internalID: 2534431199755003184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_55
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 560
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3ea86c3daf95010800000000000000
+      internalID: 1178248565010129911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 560
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53395c77e67d6d5d0800000000000000
+      internalID: -3038004029159009483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 560
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2e9b2eaa611e500800000000000000
+      internalID: 423644763153621739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 560
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b171f3ff428bc20800000000000000
+      internalID: 3222366212077329226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_59
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 560
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50873ccf35903fd30800000000000000
+      internalID: 4463921911981897733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ab42818b2160250800000000000000
+      internalID: 5910432142858697263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606fe008029b2d010800000000000000
+      internalID: 1212234798954640902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d912fb9a46a08c0800000000000000
+      internalID: -4032299836137956085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031196a81eeaaa5f0800000000000000
+      internalID: -744590504663379664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dc484a216dab240800000000000000
+      internalID: 4808390927729347932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b3fc38a26c64440800000000000000
+      internalID: 4919837528851168119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254fbad716c2679a0800000000000000
+      internalID: -6235747836816001966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_67
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ac29bf0b8c85430800000000000000
+      internalID: 3771985350383290925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09df10533a94ace40800000000000000
+      internalID: 5677431245571751312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_69
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f7ed1188d2b1f80800000000000000
+      internalID: -8134858239476072670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec3bc8e2aa1aa830800000000000000
+      internalID: 4083105299157433576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aac69687fb7af80800000000000000
+      internalID: -8095291281289467343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b266344150ecfe0800000000000000
+      internalID: -1166989668854125700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b025f8df6fa2760800000000000000
+      internalID: 7434025703820102523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd866977296eddc0800000000000000
+      internalID: -3612334232843153921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f248bf73c6312410800000000000000
+      internalID: 1450500768279315188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0c8b24ec7e16bf0800000000000000
+      internalID: -332730024380022592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_77
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25645da4911befd80800000000000000
+      internalID: -8214933948089416110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddf1b45e171c8760800000000000000
+      internalID: 7461364101683477976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_79
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77517c758179e39b0800000000000000
+      internalID: -5098471597329148553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7718a00d1383cc710800000000000000
+      internalID: 1714807344716218743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f95cda63fbc1e80800000000000000
+      internalID: -8206474179411337361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f3fae3db40eaa0800000000000000
+      internalID: -6133819318926576857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a02547c20fc610800000000000000
+      internalID: 1643535443895033893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e7d0da2380d4d40800000000000000
+      internalID: 5570117327871901189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_85
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e992fb38f9bceab80800000000000000
+      internalID: -8381537970519332450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1a58430deae020800000000000000
+      internalID: 2371968752118537906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_87
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e821102f1dbe641c0800000000000000
+      internalID: -4519665889078865266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d843ff9a20d0fa70800000000000000
+      internalID: 8858809348528490709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_89
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd05ea6ea386e58e0800000000000000
+      internalID: -1702809006911893283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715f35105e33fe290800000000000000
+      internalID: -7859005766075419369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_91
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d8a23fd9d9ce10800000000000000
+      internalID: 2218543844107540416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e407b0f914f24d0800000000000000
+      internalID: -3157232662415913417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3824a7deae82f9f0800000000000000
+      internalID: -436129332308203460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02486b9ec0b152b50800000000000000
+      internalID: 6567685373864346656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_95
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b9acecaf4b45e50800000000000000
+      internalID: 6797256726913129375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_96
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb06495772b9a1f60800000000000000
+      internalID: 8005881881383166143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_97
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82996f99b80368890800000000000000
+      internalID: -7456218756923614936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_98
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5288e350c55f980800000000000000
+      internalID: -8505791143625611863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_99
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b8ad2e99d5c0b0800000000000000
+      internalID: -5708917679228145385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b24b780944ef240800000000000000
+      internalID: 4827371238130461529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_101
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a097fdd741ac73470800000000000000
+      internalID: 8374384221478680842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04deedcd1009ca450800000000000000
+      internalID: 6101409932855143744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b07d7a61a51eeb40800000000000000
+      internalID: 5471334380322255031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb310231c0d7280800000000000000
+      internalID: -9044059200408011714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_105
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d8e4e2f01224980800000000000000
+      internalID: -8556239992965395089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_106
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef0d51a6f0fc5b50800000000000000
+      internalID: 6583401697368674276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_107
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a78935c1c17bc820800000000000000
+      internalID: 2939568258840889257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_108
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1871b4f9992f0b80800000000000000
+      internalID: -8426470636574902244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_109
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a7438aee025870800000000000000
+      internalID: 8670008633029272700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ef928714ac24910800000000000000
+      internalID: 1820239581948804616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_111
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f134934a69500c0800000000000000
+      internalID: -4610113011464331485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_112
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d1b85c4c54d1db0800000000000000
+      internalID: -4819619314786427513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_113
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a33fe878f9143620800000000000000
+      internalID: 2752853827201741733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02f081e618a0f300800000000000000
+      internalID: 283911592750412299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_115
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c96f92c1317b410800000000000000
+      internalID: 1492682813180648542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_116
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bcb584c2870fa90800000000000000
+      internalID: -7282188465870222547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_117
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec50d31c860722b10800000000000000
+      internalID: 1955248783453128142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0ddb616717162a0800000000000000
+      internalID: -6745986014822674196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_119
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cee22eabd0baef60800000000000000
+      internalID: 8064452540326145733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f10c3ca8a2e9570800000000000000
+      internalID: 8475258324235853581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_121
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946fd77c251730ac0800000000000000
+      internalID: -3890141052769798583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab6992e8b35aab0800000000000000
+      internalID: -4997522729728558399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_123
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87985210aa26ebb60800000000000000
+      internalID: 7763751289936513400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_124
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b243263eba7a4560800000000000000
+      internalID: 7298781103477965492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_125
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e8422b5561965c0800000000000000
+      internalID: -4221818618366357988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_126
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39173435e439ee4d0800000000000000
+      internalID: -3103381128598031981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_127
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa670d366ce62ec0800000000000000
+      internalID: -3591923728926676225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_128
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea4f4c588abdc10800000000000000
+      internalID: 2079440945450102478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_129
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08df335666a95dc70800000000000000
+      internalID: 8995265595317681536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a13280e473d34930800000000000000
+      internalID: 4126374182537802144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_131
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f47326a7d78b7b80800000000000000
+      internalID: -8395967720027097864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2080932d00396080800000000000000
+      internalID: -9193764331310776275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_133
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d2647f48c7b2f0800000000000000
+      internalID: -957076152212334895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5022098da8c1c0800000000000000
+      internalID: -4483142625089529020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_135
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978b27ba945f8caf0800000000000000
+      internalID: -375780872127596423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd31caa5296d1a6e0800000000000000
+      internalID: -1827944049660914721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_137
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5c9dc0813b8e9b0800000000000000
+      internalID: -5050590066219825705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_138
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcb1212bf7156990800000000000000
+      internalID: -7393476845898711811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_139
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75525a400276c2a20800000000000000
+      internalID: 3038917235782788439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f3d12716dd46750800000000000000
+      internalID: 6297401589566881626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_141
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa48e617ab852090800000000000000
+      internalID: -8059882408349512961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d77a866e69d700800000000000000
+      internalID: 565604614900535783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_143
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bac173dd2ac89fd0800000000000000
+      internalID: -2334894108621813065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_144
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df61ec8425187d3f0800000000000000
+      internalID: -876089412091504899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_145
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ce984a4b1115470800000000000000
+      internalID: 8381499849065491522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_146
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f471dca175987b0800000000000000
+      internalID: -5221546520337756318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_147
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b0a253ab0c80ef0800000000000000
+      internalID: -141651482273772700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_148
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c99b4232646200800000000000000
+      internalID: 172370653903178115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_149
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251485ab94346a4a0800000000000000
+      internalID: -6582499821417381550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16c67bfb01363ec0800000000000000
+      internalID: -3587626125620754913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_151
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c263d64b5c7754320800000000000000
+      internalID: 2541569255739831852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_152
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab1f8967cb30ce50800000000000000
+      internalID: 6827522762749189038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_153
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fad0191613dac70800000000000000
+      internalID: 8983891126789189529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a2eaceca1022f00800000000000000
+      internalID: 1090435901993921047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_155
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fea81a72d3a50990800000000000000
+      internalID: -7420344686636126471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_156
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2534b223dcdf6c090800000000000000
+      internalID: -8014439429107399854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_157
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffb7106371d98610800000000000000
+      internalID: 1624059434107387897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6b43b64757a3460800000000000000
+      internalID: 7222214095317284606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gen1PokemonFront_159
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132526e7ad77f2bf0800000000000000
+      internalID: -346926865977290191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dbbf1eb0a7b50b447b28e8a1dbebd7e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
