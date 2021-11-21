@@ -46,7 +46,7 @@ TextureImporter:
     second: objects_13
   - first:
       213: -2069660456029034469
-    second: objects_14
+    second: Book
   - first:
       213: -5843391103799036864
     second: objects_15
@@ -1390,7 +1390,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: objects_14
+      name: Book
       rect:
         serializedVersion: 2
         x: 240

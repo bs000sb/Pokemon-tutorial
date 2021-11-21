@@ -17,7 +17,7 @@ public class Move
     public Move(MoveSaveData saveData)
     {
         Base = MoveDB.GetMoveByname(saveData.name);
-        PP = saveData.PP;
+        PP = saveData.pp;
     }
 
     public MoveSaveData GetSaveData()
@@ -25,9 +25,14 @@ public class Move
         var saveData = new MoveSaveData()
         {
             name = Base.Name,
-            PP = PP
+            pp = PP
         };
         return saveData;
+    }
+
+    public void IncreasePP(int amount)
+    {
+        PP = Mathf.Clamp(PP + amount, 0, Base.PP);
     }
 }
 
@@ -36,6 +41,6 @@ public class Move
 public class MoveSaveData
 {
     public string name;
-    public int PP;
+    public int pp;
 }
 

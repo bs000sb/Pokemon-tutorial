@@ -354,3 +354,17 @@ MonoBehaviour:
     count: 15
   - item: {fileID: 11400000, guid: ecfea84b5f0312f46b5f1bb04bb4c564, type: 2}
     count: 15
+  pokeballSlots:
+  - item: {fileID: 11400000, guid: b33d5e5d12795224299426451816edeb, type: 2}
+    count: 10
+  - item: {fileID: 11400000, guid: dd6469cc049989c4895a2f4ad8b68e79, type: 2}
+    count: 10
+  - item: {fileID: 11400000, guid: 8806eb73d42a9954e841443673c68c65, type: 2}
+    count: 10
+  tmSlots:
+  - item: {fileID: 11400000, guid: 24e87eda25d1d8243b2e0bc6f282f127, type: 2}
+    count: 2
+  - item: {fileID: 11400000, guid: 110269ee2a6534d44a908a7beae57094, type: 2}
+    count: 2
+  - item: {fileID: 11400000, guid: d87b900a367d18944872bfecb3b171a8, type: 2}
+    count: 1
